@@ -1,0 +1,1 @@
+/Users/baraneedharanm/Documents/Titanium Studio Workspace/KitchenSink1/Resources/examples/movie_remote2.js
